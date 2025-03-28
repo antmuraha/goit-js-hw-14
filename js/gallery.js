@@ -1,5 +1,3 @@
-import basicLightbox from 'https://cdn.jsdelivr.net/npm/basiclightbox@5.0.4/+esm';
-
 async function fetchImages() {
   // Simulating a fetch of images
   try {
